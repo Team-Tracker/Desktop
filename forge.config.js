@@ -1,7 +1,7 @@
 module.exports = {
   packagerConfig: {
     asar: true,
-    icon: 'assets/ChatGPT.png',
+    icon: 'assets/TeamTracker.png',
   },
   rebuildConfig: {},
   makers: [
